@@ -1,10 +1,30 @@
 body {
-    width: 80%;
+    width: 60%;
+    margin: auto;
+    /* background-color: grey; */
 
+}
+
+h1 {
+    text-align: center;
 }
 
 .products {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     
+}
+
+.card {
+    flex-basis: 26%;
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid lightblue;
+}
+
+.availability {
+    background-color: grey;
+    color: yellow;
 }
