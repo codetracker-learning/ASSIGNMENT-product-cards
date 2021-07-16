@@ -1,0 +1,39 @@
+.card-holder {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card-box {
+
+    flex: 1 33%;
+    box-shadow: inset;
+}
+
+.title {
+    border: solid lightblue 1px;
+    text-align: center;
+}
+
+.prod-image {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}
+
+.prod-discription {
+    text-align: justify;
+}
+
+.section2 {
+    font-weight: bold;
+}
+
+.section3 {
+    font-weight: bold;
+}
+
+.avail-status {
+    width: 100%;
+    background-color: darkgrey;
+    color: yellow;
+}
