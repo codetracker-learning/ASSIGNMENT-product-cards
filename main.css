@@ -1,0 +1,13 @@
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: auto;
+   }       
+.card {
+    margin: 5px;
+   
+ }
+.card-body1{
+    line-height: 0.5;
+}
