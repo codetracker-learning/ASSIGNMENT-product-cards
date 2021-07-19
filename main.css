@@ -1,12 +1,20 @@
 body {
-    width: 60%;
+    width: 80%;
     margin: auto;
-    /* background-color: grey; */
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
 
 }
 
 h1 {
     text-align: center;
+    color: #212121;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h2 {
+    padding-left: 5px;
 }
 
 .products {
@@ -19,16 +27,36 @@ h1 {
 .card {
     flex-basis: 26%;
     margin: 10px;
-    padding: 10px;
-    background-color: white;
+    background-color: #00796B;
     border: 1px solid lightblue;
+    border-radius: 1rem;
+    box-shadow: 4px 2px 2px darkslategray;
+}
+
+.top-section {
+    text-align: center;
+}
+
+.bottom-section {
+    padding: 10px;
 }
 
 .availability {
     background-color: grey;
     color: yellow;
+    text-align: left;
+    margin: 0px;
+    padding-left: 5px;
 }
 
 .card img {
     width: 200px;
+    border-radius: 1rem;
+}
+
+
+.disc {
+    text-align: justify;
+    text-justify: inter-word;
+    padding: 10px
 }
