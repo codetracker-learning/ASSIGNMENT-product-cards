@@ -60,3 +60,7 @@ h2 {
     text-justify: inter-word;
     padding: 10px
 }
+
+.sold-out {
+    position: absolute; right: 33%;
+}
