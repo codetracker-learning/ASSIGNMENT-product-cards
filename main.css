@@ -23,7 +23,8 @@ body{
     border: solid 1px #FF5722;
     }
 
-    @media (max-width: 920px) {
+    /* This code broke the format that I was attempting and made it non-responsive */
+    /* @media (max-width: 920px) {
 
         .card-box {
             padding: 2%;
@@ -42,7 +43,7 @@ body{
             text-align: center;
             border: solid 1px #FF5722;
         }
-    }
+    } */
         
 .title {
     border: solid #BDBDBD 1px;
