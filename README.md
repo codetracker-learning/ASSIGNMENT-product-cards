@@ -8,7 +8,7 @@ Issue tickets have been created so that you can track your progress. As you comp
 - Decide as a team how many branches you will need and what will happen on each branch (remember one feature per branch).
 
 ## Setup
-* While in `~/workspace/foundations/exercises`, make a directory called `product-cards`
+* While in `~/workspace/foundations/exercises`, clone this repo
 * Create a setup branch and push up the usual stuff
 
 ## Requirements
