@@ -5,8 +5,8 @@ Issue tickets have been created so that you can track your progress. As you comp
 ## Study Group Requirements
 
 - You should be using flexbox. 
+- Use Bootstrap for Card Components
 - Decide as a team how many branches you will need and what will happen on each branch (remember one feature per branch).
-- Use Bootstrap for Basic Components
 
 ## Setup
 * While in `~/workspace/foundations/exercises`, clone this repo
@@ -18,7 +18,6 @@ Your task is to build a grid of cards for a company's products. Here are the req
 
 1. Cards should be 3 per row.
 1. Each product should contain a `header` element that, itself, contains an `h2` element where the product's title will be written.
-1. Each product should have three block level html elements.
 1. The first section should contain three child block elements.
     1. The first element contains the product image.
     1. The second element contains the product description.
