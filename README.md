@@ -44,7 +44,7 @@ Your task is to build a grid of cards for a company's products. Here are the req
 
 ### Visual example
 
-Here's an image that shows how the cards should appear. This visual example is a wireframe, which means it is only an example of layout. You may style your cards however you wish. All the data needs to be on the cards. 
+Here's an image that shows how the cards should appear. This visual example is a wireframe, which means it is only an example of layout. Style your cards based on the requirements and then use your own judgment after doing so. All the data needs to be on the cards. 
 
 ![Static Web Product Cards Example](https://github.com/nss-nightclass-projects/exercise-vault/blob/master/images/SW_HTML_CSS_exercise.png)
 
